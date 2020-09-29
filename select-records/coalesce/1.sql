@@ -1,0 +1,1 @@
+SELECT COALESCE(null, null, 1, 10) AS number;
