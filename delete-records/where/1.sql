@@ -1,2 +1,2 @@
 DELETE FROM person
-WHERE id = 1;
+WHERE id = 1004
