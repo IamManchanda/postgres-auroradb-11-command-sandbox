@@ -1,0 +1,1 @@
+ALTER TABLE person DROP CONSTRAINT unique_email_address;
